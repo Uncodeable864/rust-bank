@@ -4,13 +4,13 @@
 ## Features
 Rust Bank uses these Rust concepts:
 1. Crates
-2. Importing from other files
-3. Structs & Implementations
-4. The type system
-5. Functions
-6. Loops
-7. `match` statements
-8. Conditionals
-9. Vectors
-10. Ownership & Borrowing
-11. Printing
+1. Importing from other files
+1. Structs & Implementations
+1. The type system
+1. Functions
+1. Loops
+1. `match` statements
+1. Conditionals
+1. Vectors
+1. Ownership & Borrowing
+1. `stdout` and `stdin`
